@@ -1,0 +1,5 @@
+File structure: Hash
+Creation: 2022-01-16 20:05:13
+Last modification: 2022-01-16 20:05:13
+Schema: CPF-INTEGER(11)|DOCNUMBER-INTEGER(4)|NOME-VARCHAR(60)|DATA-DATE|SALARIO-VARCHAR(10)|
+Number of records: 0

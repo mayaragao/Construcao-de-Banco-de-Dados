@@ -1,0 +1,5 @@
+File structure: Ordered
+Creation: 2022-01-16 22:30:43
+Last modification: 2022-01-16 22:47:57
+Schema: CPF-INTEGER(11)|DOCNUMBER-INTEGER(6)|NOME-VARCHAR(60)|DATA-DATE|SALARIO-VARCHAR(10)|
+Number of records: 1960

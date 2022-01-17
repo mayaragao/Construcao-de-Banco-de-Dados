@@ -1,0 +1,5 @@
+File structure: Heap
+Creation: 2022-01-16 22:03:03
+Last modification: 2022-01-16 23:24:42
+Schema: CPF-INTEGER(11)|DOCNUMBER-INTEGER(6)|NOME-VARCHAR(60)|DATA-DATE|SALARIO-VARCHAR(10)|
+Number of records: 1959
